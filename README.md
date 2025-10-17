@@ -7,11 +7,10 @@ This project is designed to provide an elegant detail screen with a smooth paral
 
 ## 🖼️ Preview
 
-<p align="center">
-  <img src="assets/preview/labuanbajo-ui.png" width="320" />
-</p>
+![Preview App](https://github.com/your-username/labuan-bajo-travel-app/assets/00000000000000000000000000000000)
 
-[https://github.com/username/labuan-bajo-app/assets/preview/demo.mp4](https://github.com/username/labuan-bajo-app/assets/preview/demo.mp4)
+## 🎥 Demo Video  
+https://github.com/your-username/labuan-bajo-travel-app/assets/11111111111111111111111111111111
 
 ---
 
