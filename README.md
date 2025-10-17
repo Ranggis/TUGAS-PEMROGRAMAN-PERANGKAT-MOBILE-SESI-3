@@ -12,7 +12,7 @@ This project is designed to provide an elegant detail screen with a smooth paral
 > ✨ *Elegant, clean, and modern UI for travel lovers.*
 
 ## 🎥 Demo Video  
-https://github.com/Ranggis/TUGAS-PEMROGRAMAN-PERANGKAT-MOBILE-SESI-3/blob/main/Hasil%20Implementasi/Ranggis.mp4
+🎥 [Watch Demo on Google Drive](https://drive.google.com/file/d/1BjsNAPJdXZu193Qsrhw09lhnd-ut1GaT/view?usp=drive_link)
 
 > 🎬 *Click the link to watch the full demo directly on GitHub!*  
 
