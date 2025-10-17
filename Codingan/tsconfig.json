@@ -1,0 +1,10 @@
+{
+  "extends": "@react-native/typescript-config",
+  "include": [
+    "src",
+    "react-native-vector-icons.d.ts",
+    "**/*.ts",
+    "**/*.tsx"
+  ],
+  "exclude": ["**/node_modules", "**/Pods"]
+}
