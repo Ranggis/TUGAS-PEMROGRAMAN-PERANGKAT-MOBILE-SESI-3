@@ -7,10 +7,14 @@ This project is designed to provide an elegant detail screen with a smooth paral
 
 ## 🖼️ Preview
 
-![Preview App](https://github.com/your-username/labuan-bajo-travel-app/assets/00000000000000000000000000000000)
+![Preview App](https://github.com/Ranggis/TUGAS-PEMROGRAMAN-PERANGKAT-MOBILE-SESI-3/blob/main/Hasil%20Implementasi/Ranggis.jpg)
+
+> ✨ *Elegant, clean, and modern UI for travel lovers.*
 
 ## 🎥 Demo Video  
-https://github.com/your-username/labuan-bajo-travel-app/assets/11111111111111111111111111111111
+https://github.com/Ranggis/TUGAS-PEMROGRAMAN-PERANGKAT-MOBILE-SESI-3/blob/main/Hasil%20Implementasi/Ranggis.mp4
+
+> 🎬 *Click the link to watch the full demo directly on GitHub!*  
 
 ---
 
